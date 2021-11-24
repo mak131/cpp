@@ -11,7 +11,7 @@ class matrix
     matrix add(matrix m,matrix n)
 {
     matrix h;
-    for(int i=0;i<3;i++)
+    for(int i=0;i<3;i++)        // here 11 to 22 class inside add function 
     {
         for(int j=0;j<3;j++)
         {
